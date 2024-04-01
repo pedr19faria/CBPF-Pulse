@@ -1,4 +1,8 @@
 # CBPF-Pulse
+The collection of notebooks are all studies on Qiskit-Pulse and Dynamical Decoupling. Complete-Pulse notebook provides an introduction to Qiskit-Pulse with good examples and even a method to find the optimal amplitude for a $\pi$ pulse. T1T2Calibration-Simulation provides a notebook for finding the optimal amplitude for a $\pi$ pulse using Rabi Experiment and uses this to find T1 and T2 all in fake backends. T2 is done with Hahn Echoes, which is an introduction to Dynamical Decoupling. Furthermore, in the near future I hope to bring notebooks that better explore Dynamical Decoupling Routines.
+
+
+
 Introduction to Qiskit Pulse.
 [1] Alexander, T., Kanazawa, N., Egger, D. J., Capelluto, L., Wood, C. J., Javadi-Abhari, A., & McKay, D. C. (2020). Qiskit pulse: programming quantum computers through the cloud with pulses. Quantum Science and Technology, 5(4), 044006.
 
