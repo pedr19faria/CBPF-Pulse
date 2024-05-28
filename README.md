@@ -1,7 +1,8 @@
 # CBPF-Pulse
 The collection of notebooks are all studies on Qiskit-Pulse and Quantum control techquiniques, such as Composite Pulses and Dynamical Decoupling. Complete-Pulse notebook provides an introduction to Qiskit-Pulse with good examples and even a method to find the optimal amplitude for a $\pi$ pulse, using scipy. Calibration-and-T1T2-Pulse provides a notebook for finding the optimal frequency and amplitude for a $\pi$ pulse using a Rabi Experiment and uses this to find T1 and T2 in ibm_osaka, IBM Quantum Computer. T2 is done with Hahn Echoes, which is serves as an introduction to Dynamical Decoupling. In Composite-Pulses I investigate the use of composite pulses for errors is duration and amplitude, showing robustness against this errors. Also try to replicate the results for $\pi$ pulses with broad and narrowband pulses from Vitanov and Borosov article cited below. In Simulação-Rotação - a notebook written in Portuguese- I use rotation gates avaiable in qiskit to simulate composite pulses with errors in the angle of rotation. Furthermore, in the near future I hope to bring notebooks that better explore Dynamical Decoupling Routines, Quantum Error Correction and more about Composite Pulses.
 
-
+---
+This is all part of my research iniatiation program done at CBPF with Alexandre Martins de Souza. Funded by CNPQ.
 
 Introduction to Qiskit Pulse.
 [1] Alexander, T., Kanazawa, N., Egger, D. J., Capelluto, L., Wood, C. J., Javadi-Abhari, A., & McKay, D. C. (2020). Qiskit pulse: programming quantum computers through the cloud with pulses. Quantum Science and Technology, 5(4), 044006.
