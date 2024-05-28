@@ -4,6 +4,8 @@ The collection of notebooks are all studies on Qiskit-Pulse and Quantum control 
 ---
 This is all part of my research iniatiation program done at CBPF with Alexandre Martins de Souza. Funded by CNPQ.
 
+---
+
 Introduction to Qiskit Pulse.
 [1] Alexander, T., Kanazawa, N., Egger, D. J., Capelluto, L., Wood, C. J., Javadi-Abhari, A., & McKay, D. C. (2020). Qiskit pulse: programming quantum computers through the cloud with pulses. Quantum Science and Technology, 5(4), 044006.
 
